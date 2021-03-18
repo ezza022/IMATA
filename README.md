@@ -1,6 +1,6 @@
-#IMATA
+# IMATA
 
-### latihan React Hooks Firebase dilengkapi Admin CRUD SYSTEM
+### `latihan React Hooks Firebase dilengkapi Admin CRUD SYSTEM`
 
 
 # Getting Started with Create React App
