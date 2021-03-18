@@ -1,0 +1,13 @@
+@layer components {
+    .container-home {
+      @apply container;
+    }
+  }
+  
+  .text-shadow-white{
+    text-shadow: 0px 0px 30px #7a7a7a;
+  }
+  
+  .transparent-black{
+    background-color: rgba(0, 0, 0, 0.822);
+  }
